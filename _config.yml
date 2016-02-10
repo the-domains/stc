@@ -1,0 +1,28 @@
+name: STC
+favicon: null
+layout_spectrum: 0.14216137840412557
+typography_spectrum: 0.6920521804131567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8166479673236609
+  lightness: 0.566711604129523
+  saturation: 0.7455837521702051
+  rhythmicContrast: 0.04908857308328152
+purpose: []
