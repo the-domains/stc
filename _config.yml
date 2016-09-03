@@ -12,8 +12,8 @@ color:
   rhythmicContrast: 0.04908857308328152
 opengraph:
   image: null
-  type: null
-  appId: null
+  type: stc
+  appId: 'https://www.facebook.com/SoftTissueCentre/?ref=aymt_homepage_panel'
 layout_spectrum: 0.14216137840412557
 analytics:
   google: null
